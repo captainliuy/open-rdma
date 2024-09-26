@@ -8,3 +8,4 @@ RoCE v2 hardware and software implementation:
 - [roce-sim](https://github.com/datenlord/roce-sim) is RoCE v2 compatibility test framework writtin in Python and Rust;
 - [async-rdma](https://github.com/datenlord/async-rdma) is Rust Async binding for RDMA verbs API.
 - [rdma-drivers-rs](https://github.com/datenlord/rdma-driver-rs) is Rust Linux driver for RDMA rxe and mlx4 device.
+- [blue-dmac](https://github.com/datenlord/blue-dmac) is a DMA controller using Bluespec.
