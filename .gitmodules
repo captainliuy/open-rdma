@@ -13,3 +13,6 @@
 [submodule "rdma-driver-rs"]
 	path = rdma-driver-rs
 	url = https://github.com/datenlord/rdma-driver-rs
+[submodule "blue-dmac"]
+	path = blue-dmac
+	url = https://github.com/datenlord/blue-dmac.git
